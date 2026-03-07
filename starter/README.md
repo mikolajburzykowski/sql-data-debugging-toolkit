@@ -1,4 +1,4 @@
-# SQL Data Debugging Toolkit — Starter Edition
+# SQL Data Debugging Toolkit - Starter Edition
 
 This folder contains the **free starter version** of the SQL Data Debugging Toolkit.
 
