@@ -14,7 +14,7 @@ It includes a small set of SQL validation checks, a structured debugging workflo
 
 Most data issues in analytics systems are **not caused by SQL mistakes**, but by hidden problems in datasets and pipelines.
 
-![Data Debugging Workflow](assets/workflow.png)
+<img src="assets/workflow.png" width="800">
 
 Common examples:
 
