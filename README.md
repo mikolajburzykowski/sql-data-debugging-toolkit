@@ -45,6 +45,10 @@ The starter edition includes:
 
 These checks demonstrate the **debugging framework used in the full toolkit.**
 
+Explore the starter toolkit here:
+
+➡ **starter/**
+
 ---
 
 # Quick start
