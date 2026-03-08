@@ -1,5 +1,7 @@
 # SQL Data Debugging Toolkit
 
+![SQL Data Debugging Toolkit](assets/cover.png)
+
 A practical SQL toolkit for detecting hidden data quality issues in analytics datasets.
 
 This repository contains the **free starter edition** of the SQL Data Debugging Toolkit.
