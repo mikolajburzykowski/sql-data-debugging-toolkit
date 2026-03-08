@@ -41,7 +41,9 @@ The starter edition includes:
 
 These checks demonstrate the **debugging framework used in the full toolkit.**
 
-## Quick start
+---
+
+# Quick start
 
 1. Load `example_dataset.sql` into your SQL environment
 2. Run SQL checks from the `starter/SQL_checks` folder
