@@ -143,7 +143,7 @@ The full SQL Data Debugging Toolkit includes:
 
 Full version available here:
 
-SQL Data Debugging Toolkit (Full Version)
+[SQL Data Debugging Toolkit (Full Version)](https://burzykowskianalytics.gumroad.com/l/rpyrl?layout=profile)
 
 ---
 
