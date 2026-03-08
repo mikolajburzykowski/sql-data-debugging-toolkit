@@ -12,6 +12,8 @@ It includes a small set of SQL validation checks, a structured debugging workflo
 
 Most data issues in analytics systems are **not caused by SQL mistakes**, but by hidden problems in datasets and pipelines.
 
+![Data Debugging Workflow](assets/workflow.png)
+
 Common examples:
 
 • broken joins
@@ -52,6 +54,8 @@ GROUP BY primary_key_column
 HAVING COUNT(*) > 1;
 ```
 
+![Example SQL checks](assets/sql_checks.png)
+
 ---
 
 # Debugging workflow
@@ -89,6 +93,8 @@ starter
 ├── data_debugging_checklist.pdf
 └── README.md
 ```
+
+![Example dataset](assets/dataset.png)
 
 ---
 
