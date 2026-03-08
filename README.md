@@ -47,7 +47,7 @@ These checks demonstrate the **debugging framework used in the full toolkit.**
 
 Explore the starter toolkit here:
 
-➡ **starter/**
+➡ [Open starter toolkit](starter/)
 
 ---
 
