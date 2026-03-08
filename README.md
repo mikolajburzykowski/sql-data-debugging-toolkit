@@ -1,6 +1,8 @@
 # SQL Data Debugging Toolkit
 
-![SQL](https://img.shields.io/badge/SQL-Analytics-blue)
+![SQL Toolkit](https://img.shields.io/badge/SQL-Toolkit-blue)
+![Data Quality](https://img.shields.io/badge/Data-Quality-purple)
+![Analytics](https://img.shields.io/badge/Analytics-BI-lightgrey)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-starter--edition-lightgrey)
 
