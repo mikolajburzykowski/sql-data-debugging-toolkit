@@ -1,5 +1,9 @@
 # SQL Data Debugging Toolkit
 
+![SQL](https://img.shields.io/badge/SQL-Analytics-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-starter--edition-lightgrey)
+
 <img src="assets/cover.png" width="800">
 
 A practical SQL toolkit for detecting hidden data quality issues in analytics datasets.
