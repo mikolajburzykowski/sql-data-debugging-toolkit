@@ -1,6 +1,6 @@
 # SQL Data Debugging Toolkit
 
-![SQL Data Debugging Toolkit](assets/cover.png)
+<img src="assets/cover.png" width="800">
 
 A practical SQL toolkit for detecting hidden data quality issues in analytics datasets.
 
@@ -56,7 +56,7 @@ GROUP BY primary_key_column
 HAVING COUNT(*) > 1;
 ```
 
-![Example SQL checks](assets/sql_checks.png)
+<img src="assets/sql_checks.png" width="800">
 
 ---
 
@@ -96,7 +96,7 @@ starter
 └── README.md
 ```
 
-![Example dataset](assets/dataset.png)
+<img src="assets/dataset.png" width="800">
 
 ---
 
