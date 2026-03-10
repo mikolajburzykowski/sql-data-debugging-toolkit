@@ -1,4 +1,4 @@
-# SQL Data Debugging Toolkit
+# SQL Data Debugging Toolkit (Free Starter)
 
 ![SQL Toolkit](https://img.shields.io/badge/SQL-Toolkit-blue)
 ![Data Quality](https://img.shields.io/badge/Data-Quality-purple)
