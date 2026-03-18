@@ -18,7 +18,7 @@ It includes a small set of SQL validation checks, a structured debugging workflo
 
 # The Problem
 
-Most data issues in analytics systems are **not caused by SQL mistakes**, but by hidden problems in datasets and pipelines.
+Most data issues in analytics systems are **not caused by SQL mistakes** but by hidden problems in datasets and pipelines.
 
 <img src="assets/workflow.png" width="800">
 
