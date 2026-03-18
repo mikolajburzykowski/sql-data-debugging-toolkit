@@ -10,7 +10,7 @@
 
 A practical SQL toolkit for detecting hidden data quality issues in analytics datasets.
 
-This repository contains the **free starter edition** of the SQL Data Debugging Toolkit.
+This repository contains the free starter edition of the SQL Data Debugging Toolkit.
 
 It includes a small set of SQL validation checks, a structured debugging workflow and an example dataset with built-in data issues.
 
@@ -18,7 +18,7 @@ It includes a small set of SQL validation checks, a structured debugging workflo
 
 # The Problem
 
-Most data issues in analytics systems are **not caused by SQL mistakes** but by hidden problems in datasets and pipelines.
+Most data issues in analytics systems are not caused by SQL mistakes but by hidden problems in datasets and pipelines.
 
 <img src="assets/workflow.png" width="800">
 
@@ -33,7 +33,7 @@ Common examples:
 
 When a dashboard suddenly shows incorrect numbers, analysts often start writing random queries to investigate the issue.
 
-This toolkit provides a **structured approach to debugging analytics datasets.**
+This toolkit provides a structured approach to debugging analytics datasets.
 
 ---
 
@@ -45,7 +45,7 @@ The starter edition includes:
 • Data debugging checklist (PDF)
 • Example dataset with built-in data quality issues
 
-These checks demonstrate the **debugging framework used in the full toolkit.**
+These checks demonstrate the debugging framework used in the full toolkit.
 
 Explore the starter toolkit here:
 
@@ -91,7 +91,7 @@ The toolkit follows a structured debugging workflow used by analytics teams:
 6. Data freshness checks
 7. Business logic validation
 
-This process helps analysts **isolate the root cause of data issues faster.**
+This process helps analysts isolate the root cause of data issues faster.
 
 ---
 
@@ -121,7 +121,7 @@ starter
 
 # Supported databases
 
-The SQL queries follow **ANSI SQL principles** and should work with most modern warehouses:
+The SQL queries follow ANSI SQL principles and should work with most modern warehouses:
 
 • PostgreSQL
 • Snowflake
@@ -149,6 +149,6 @@ Full version available here:
 
 # Author
 
-Created by **Mikolaj Burzykowski**
+Created by Mikolaj Burzykowski
 
 I build practical tools for data analysts, including SQL debugging workflows, Excel dashboards and data validation systems.
